@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+beautifulsoup4
+python-dotenv
+chromadb
+google-generativeai
+langchain_google_genai
+requests==2.28.1
+langchain-google-genai
+langchain-groq
+
